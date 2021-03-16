@@ -1,2 +1,0 @@
-# libamg
-Begin app
